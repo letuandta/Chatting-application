@@ -1,0 +1,19 @@
+{
+  "name": "chat-chick-app",
+  "version": "1.0.0",
+  "description": "chatting application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/letuandta/Chatting-application.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/letuandta/Chatting-application/issues"
+  },
+  "homepage": "https://github.com/letuandta/Chatting-application#readme"
+}
